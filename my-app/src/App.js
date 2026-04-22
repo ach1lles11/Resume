@@ -24,6 +24,7 @@ function App() {
     </div>
     <div class="contact">
       <h3>Projects</h3>
+      <div class="website"><a href="https://ach1lles11.github.io/Chic-Fil-A-Database/"> <i class="fas fa-home"></i><span>Chic-Fil-A Database</span></a></div>
       <div class="website"><a href="https://ach1lles11.github.io/BeInformedNC/"> <i class="fas fa-home"></i><span>BeInformedNC</span></a></div>
     </div>
     {/* <div class="follow">
