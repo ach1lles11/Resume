@@ -43,8 +43,8 @@ function App() {
     <div class="work">
       <h3><i class="fa fa-briefcase"></i>Work Experience</h3>
       <ul>
-        <li><span>Web Development Team Lead</span><small>Prometheus Group</small><small>July 2021 - Present</small></li>
-        <li><span>Krackle Consulting Group- Web Developer</span><small>University of North Carolina at Chapel Hill</small><small>June 2020 - May 2021</small></li>        
+        <li><span>Web Development Team Lead</span><small>Prometheus Group</small><small>March 2022 - April 2026</small></li>
+        <li><span>Web Developer</span><small>Prometheus Group</small><small>July 2021 - March 2022</small></li>        
       </ul>
     </div>
     <div class="edu">
@@ -57,6 +57,11 @@ function App() {
     <div class="skills-prog">
       <h3><i class="fas fa-code"></i>Programming Skills</h3>
       <ul>
+        <li><span>React</span>
+          <div class="skills-bar">
+            <div class="bar" style={{width:'90%'}}></div>
+          </div>
+        </li>
         <li><span>TypeScript</span>
           <div class="skills-bar">
             <div class="bar" style={{width:'90%'}}></div>
@@ -67,9 +72,9 @@ function App() {
             <div class="bar" style={{width:'80%'}}></div>
           </div>
         </li>
-        <li><span>JavaScript</span>
+        <li><span>C#</span>
           <div class="skills-bar">
-            <div class="bar" style={{width:'75%'}}></div>
+            <div class="bar" style={{width:'30%'}}></div>
           </div>
         </li>
         <li><span>Python</span>
@@ -80,11 +85,6 @@ function App() {
         <li><span>MatLab</span>
           <div class="skills-bar">
             <div class="bar" style={{width:'45%'}}></div>
-          </div>
-        </li>
-        <li><span>C++</span>
-          <div class="skills-bar">
-            <div class="bar" style={{width:'30%'}}></div>
           </div>
         </li>
       </ul>
